@@ -1,0 +1,2 @@
+# MyGit
+Hello JavaScript
