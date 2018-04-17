@@ -1,0 +1,5 @@
+/**index.wxss**/
+ec-canvas {
+  width: 750rpx;
+  height: 800rpx;
+}
